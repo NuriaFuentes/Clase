@@ -1,0 +1,139 @@
+
+
+#principal{
+    
+}
+
+#nav{
+    margin-left: 860px;
+    margin-right: 20px;
+    display: flex;
+    
+}
+
+
+a{
+        border-radius:3px;
+        background-color: red;
+         color: white;
+        padding: 30px;
+        margin: 10px;
+        padding-right: 10px;
+        padding-left: 10px;
+        font-size: 20px;
+        text-decoration: none
+        
+    }
+   
+p{
+    text-align: center;
+    font-size: 35px;
+}
+
+img{
+    margin-left: 360px;
+}
+
+#services{
+    display: flex;
+    border: red;
+    color: white;
+    background-color: red;
+    margin-left: 910px;
+    margin-right: 730px;
+    
+   
+     
+}
+
+#segunda{
+    display: flex;
+}
+
+.caja{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color:white;
+    justify-content: space-around;
+    border: 2px solid white;
+    
+   
+        
+}
+.imag{
+    margin-right: 260px;
+}
+
+#read{
+    color: red;
+}
+#players{
+    display: flex;
+    border: red;
+    color: white;
+    background-color: red;
+    margin-left: 910px;
+    margin-right: 730px;
+}
+
+#tercera{
+    display: flex;
+    justify-content: space-between;
+   }
+.foto{
+    display: flex;
+    background-color:white;
+    padding: 20px;
+   
+    
+
+}
+
+#view{
+    color: red;
+}
+
+#latest{
+    display: flex;
+    border: red;
+    color: white;
+    background-color: red;
+    margin-left: 910px;
+    margin-right: 730px;
+    margin-bottom: 50px;
+
+}
+
+#cuarta{
+    display: flex;
+}
+
+.work{
+    display: flex;
+    justify-content:space-evenly
+   
+    
+}
+
+#footer{
+    background-color: grey;
+}
+
+h3{
+    margin-left: 400px;
+    margin-bottom: 200px;
+    padding: 50px
+}
+
+.anc{
+    display: flex;
+    margin-right: 200px;
+    margin-top: 200px;
+}
+
+#pie{
+ margin-left: 250px;
+ display: flex;
+ margin-left: 450px;
+ }
